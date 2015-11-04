@@ -3,7 +3,7 @@
 2.11.2015 Sito Oy
 
 This is a first version of this open project.
-The purpose of this project is to collect all the improvemts made for in this process in one place for all to use.
+The purpose of this project is to collect all the improvemets made for in this process in one place for all to use.
 This project is published in GitHub with CC license, which means that all the made improvements for this process should be published.
 
 Folders in this project:
