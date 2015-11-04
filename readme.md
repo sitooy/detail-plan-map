@@ -1,4 +1,5 @@
 ﻿Publishing a detail plan map in WMS format
+==========================================
 2.11.2015 Sito Oy
 
 This is a first version of this open project.
@@ -25,11 +26,10 @@ one should always test that the workbech opens correctly after the changes made 
 
 4) Remove also User Parametres in the workbench, if other than Reader/Writer are used. They won't work for other users.
 
-
-Suomeksi
-========
-
+Ohje suomeksi
+-------------
 Ajantasa-asemakaavakartan WMS-julkaisu
+======================================
 2.11.2015 Sito Oy
 
 Tämä on avoimen projektin ensimmäinen versio. Projektin paketti julkaistaan GitHubissa avoimella lisenssillä (CC-SA), 
