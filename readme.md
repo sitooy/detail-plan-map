@@ -1,5 +1,5 @@
 ﻿Publishing a detail plan map in WMS format
-==========================================
+------------------------------------------
 2.11.2015 Sito Oy
 
 This is a first version of this open project.
