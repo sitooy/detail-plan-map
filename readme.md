@@ -7,9 +7,9 @@ The purpose of this project is to collect all the improvements made for in this 
 This project is published in GitHub with CC license, which means that all the made improvements for this process should be published.
 
 Folders in this project:
-FME: workbench and Excel of the classification
-Geoserver: SLD-styles and SVG-pictures that are used in the SLD
-PostGIS: create scripts for the three table, that FME-workbench writes to and Geoserver reads from
+* FME: workbench and Excel of the classification
+* Geoserver: SLD-styles and SVG-pictures that are used in the SLD
+* PostGIS: create scripts for the three table, that FME-workbench writes to and Geoserver reads from
 
 
 Tips to update FME workbench in Github
@@ -35,9 +35,9 @@ Tämä on avoimen projektin ensimmäinen versio. Projektin paketti julkaistaan G
 jonka käyttäminen edellyttää omien muutosten julkaisua avoimesti.
 
 Alikansiot
-FME: työtilan pohja ja luokitteluun käytetty Excel
-Geoserver: SLD-tyylit ja tyyleissä käytetyt SVG-kuvat
-PostGIS: luontiscriptit kolmelle taululle, joihin FME-työtilassa kirjoitetaan aineisto
+* FME: työtilan pohja ja luokitteluun käytetty Excel
+* Geoserver: SLD-tyylit ja tyyleissä käytetyt SVG-kuvat
+* PostGIS: luontiscriptit kolmelle taululle, joihin FME-työtilassa kirjoitetaan aineisto
 
 
 Ohjeita FME-työtilan päivittämiseen Githubissa
